@@ -5,6 +5,9 @@ using namespace std;
 
 
 // QUIZ 1 QUESTION 2
+// Abenezer Degife Yiriga
+// ATE/2172/15
+// Section 2
 
 class Student{
 
